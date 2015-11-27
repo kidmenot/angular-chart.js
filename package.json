@@ -12,7 +12,7 @@
   "author": "Jerome Touffe-Blin <jtblin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jtblin/angular-chart.js.git"
+    "url": "git://bitbucket.org/jacob_george_pikkol/angular-chart.js.git"
   },
   "license": "BSD-2-Clause",
   "devDependencies": {
@@ -54,7 +54,7 @@
     "webshot": "^0.16.0"
   },
   "dependencies": {
-    "angular": "^1.4.5",
+    "angular": "^1.4.7",
     "chart.js": "git@bitbucket.org:jacob_george_pikkol/chart.js.git"
   }
 }
